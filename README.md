@@ -2,7 +2,7 @@ C, we can follow the steps below:
 
 The first step is to create a data model that represents the results of an election. This data model should include information about the election, the candidate(s) running, and the results of the election.
 
-![PICS](Images/KABSE.PNG)
+![PICS](Images/ka.PNG)
 
 Set up a serverless architecture: 
 Next, we can use AWS Lambda, API Gateway, and DynamoDB to set up a serverless architecture for the solution. AWS Lambda can be used to run the code that will populate the DynamoDB database, and API Gateway can be used to create a RESTful API that will allow INEC officials to submit results to the database.
